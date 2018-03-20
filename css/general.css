@@ -291,7 +291,7 @@ color: #ECEBEB;
 }
 
 .content-section-a {
-	background-color: #f8f8f8;
+	background-color: #fbfbfb;
 	padding: 90px 0; 
 }
 
@@ -314,7 +314,7 @@ color: #ECEBEB;
 .banner {
 	padding: 100px 0;
 	color: #f8f8f8;
-	background: url(../img/intro/bg5.jpg) no-repeat center center;
+	background: url(../img/intro/banner-bg-1.jpg) no-repeat center center;
 	background-size: cover;
 }
 
