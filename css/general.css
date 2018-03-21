@@ -176,20 +176,12 @@ width: 50px;
 .box-icon {
 	height: 150px;
 	width: 150px;
-	-moz-border-radius: 35px;
-	border-radius: 100%;
-	padding: 47px 10px;
-	background-color: #f0f1ec;
-	color: #034b81;
-	text-align: center;
-	-webkit-transition: all 0.3s;
-	-moz-transition: all 0.3s;
-	transition: all 0.3s;
-	margin-right: 15px;
+	padding: 10px 10px;
+	
+	
 }
 
 .box-icon:hover {
-	background-color: #1abc9c;
 	color: #fff;
 }
 
@@ -1068,7 +1060,7 @@ color: #ECEBEB;
 		    background-image: none; 
 			background-size: cover;
 			text-align: center;
-			background:url(../img/intro/bg4.jpg) no-repeat center center;;
+			background:url(../img/intro/bg5.jpg) no-repeat center center;;
 		}
 		
 		h1, .h1 {

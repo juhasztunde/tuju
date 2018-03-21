@@ -217,7 +217,7 @@ h6,
 .h5,
 .h6 {
   font-family:'Helvetica Neue';
-  font-weight: 100;
+  font-weight: 300;
   line-height: 1.1;
   color: inherit;
 }
@@ -2215,7 +2215,7 @@ select[multiple].navbar-form .btn {
   background-color: transparent;
 }
 .navbar-default .navbar-toggle:before {
-  color: #34495e;
+  color: #ffffff;
 }
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
@@ -4405,6 +4405,7 @@ body.vjs-full-window {
   .login {
     background-image: url(../images/login/imac-2x.png);
   }
+  
 }
 footer {
   background-color: #f9f9f9;
@@ -4678,10 +4679,22 @@ footer p {
 			font-size: 50px;
 		}
 		
+    h2, .h2 {
+      font-size: 30px;
+      text-align:center
+    }
 		h3, .h3 {
 			font-size: 20px;
 			text-align:center
 		}
+    .picresp {
+      height: 83px;
+      width: 100px;
+    }
+
+    .picresp1 {
+      width: 100px;
+    }
 		.col-sm-4 {margin-bottom: 120px; text-align:center;}
 		.col-sm-4 > i{text-align:center;}
 		.col-sm-5 .img-responsive {display:none}
@@ -4712,8 +4725,12 @@ footer p {
 		
 		h3, .h3 {
 			font-size: 20px;
-			
 		}
+
+    .picresp {
+      height: 167px;
+      width: 200px;
+    }
 		.col-sm-4 {margin-bottom: 120px; text-align:center;}
 		
 		.col-sm-5 {margin-top:120px}
