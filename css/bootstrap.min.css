@@ -1668,7 +1668,7 @@ textarea.input-lg,select[multiple].input-lg{
     right:15px
 }
 .btn{
-    display:grid;
+    display:inline;
     margin-bottom:0;
     font-weight:normal;
     text-align:center;
