@@ -225,8 +225,8 @@ figure {
 .fh5co-cover .display-tc p {
   color: #fff;
   font-weight: 400;
-  font-size: 30px;
-  letter-spacing: 3px;
+  font-size: 25px;
+  letter-spacing: 2px;
 }
 
 .fh5co-cover .display-tc p span {
@@ -1262,4 +1262,11 @@ figure {
   height: 100%;
   z-index: 9999;
   background: url(../images/hourglass.svg) center no-repeat #222222;
+}
+
+.banner {
+    padding: 100px 0;
+    color: #f8f8f8;
+    background: url(../images/cover_bg_4.jpg) no-repeat center center;
+    background-size: cover;
 }
