@@ -252,7 +252,7 @@ figure {
 }
 
 .sf-menu a {
-  color: rgba(0, 0, 0, 0.5);
+  color: #ffffff;
   padding: 0.75em 1em !important;
   font-weight: normal;
   border-left: none;
@@ -265,7 +265,7 @@ figure {
 }
 
 .sf-menu a:hover, .sf-menu a:focus {
-  color: #F69D9D !important;
+  color: #50433c !important;
 }
 
 .sf-menu li.active a:hover, .sf-menu li.active a:focus {
@@ -347,7 +347,7 @@ figure {
   left: 0;
   width: 100%;
   z-index: 1022;
-  background: #fff;
+  background: #f89c9b;
 }
 
 .nav-header {
@@ -378,7 +378,7 @@ figure {
 }
 
 #fh5co-logo a {
-  color: #F69D9D;
+  color: #ffffff;
 }
 
 #fh5co-logo a:hover, #fh5co-logo a:focus {
@@ -554,7 +554,7 @@ figure {
 }
 
 .fh5co-section-gray {
-  background: #F6FAF7;
+  background: #ffffff;
 }
 
 .heading-section {
@@ -1270,3 +1270,4 @@ figure {
     background: url(../images/cover_bg_4.jpg) no-repeat center center;
     background-size: cover;
 }
+ß
